@@ -80,7 +80,7 @@ include 'functions.php';
     </div>
     <footer class="footer bg-primary">
       <div class="container">
-        <p>Copyright &copy; <?=date('Y')?> Yusuf efendi S.Inf <em class="pull-right">11 Desember 2017</em></p>
+        <p>Copyright &copy; <?=date('Y')?> Teknik Informatika 2016 <em class="pull-right">16 Desember 2019</em></p>
       </div>
     </footer>
 </body>
