@@ -57,8 +57,7 @@ include 'functions.php';
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <?php if($_SESSION['login']):?>
-            <li><a href="?m=tempat"><span class="glyphicon glyphicon-map-marker"></span> Tempat</a></li>
-            <li><a href="?m=galeri"><span class="glyphicon glyphicon-picture"></span> Galeri</a></li>            
+            <li><a href="?m=tempat"><span class="glyphicon glyphicon-map-marker"></span> Tempat</a></li>            
             <li><a href="?m=password"><span class="glyphicon glyphicon-lock"></span> Password</a></li>
             <li><a href="aksi.php?act=logout"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
             <?php else:?>            
