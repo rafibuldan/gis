@@ -13,10 +13,10 @@ include 'functions.php';
     <meta name="description" content="Source Code Sistem Informasi Geografis / Geographic Information System (GIS) berbasis web dengan PHP dan MySQL."/>
     <meta name="keywords" content="Sistem, Informasi, geografis, gis, "/>
     <meta name="author" content="yrspustaka.com"/>
-    <link rel="icon" href="favicon.ICO"/>
+    <link rel="icon" href="st.ICO"/>
     <link rel="canonical" href="https://yrspustaka.com/" />
 
-    <title>Sistem Informasi Geografis Pariwisata Dataran Tinggi Gayo Takengon</title>
+    <title>Sistem Informasi Geografis SPBU di Surabaya</title>
     <link href="assets/css/solar-bootstrap.min.css" rel="stylesheet"/>
     <link href="assets/css/general.css" rel="stylesheet"/>
     <script src="assets/js/jquery.min.js"></script>
